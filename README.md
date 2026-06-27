@@ -1,2 +1,1 @@
-# Song-Recognition-System
-An AI-based song recognition system that uses audio processing, spectrogram analysis, and deep learning techniques to identify songs from audio input.
+A deep learning-based Song Recognition System that identifies songs from audio clips using audio feature extraction, spectrogram analysis, and machine learning algorithms. The project processes raw audio data, converts it into meaningful representations, and applies AI models to classify and recognize songs efficiently. It showcases the use of AI, audio signal processing, and neural networks to build an intelligent music identification solution.
